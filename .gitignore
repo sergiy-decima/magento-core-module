@@ -1,0 +1,6 @@
+*
+!/etc/*
+!/.gitignore
+!/composer.json
+!/README.md
+!/registration.php

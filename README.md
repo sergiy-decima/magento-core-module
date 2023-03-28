@@ -1,1 +1,1 @@
-# module-hello-world
+# Magento Core Module

@@ -1,0 +1,22 @@
+{
+    "name": "sergiy-decima/magento-core-module",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "php": "~8.1.0||~8.2.0",
+        "magento/framework": "103.0.*"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Decima\\Core\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
